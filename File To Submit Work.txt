@@ -1,0 +1,12 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 02
+First Student Details.: 304914716 - Yossef Hai Gavriel
+Second Student Details: 203637574 - Omer Pesah 
+Delivery Date.........: 31 - August - 2020
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............: 
+=======================End Exercise Checking Report=========================
+
+
